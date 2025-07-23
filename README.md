@@ -1,8 +1,6 @@
 # CS2 Inventory Fetcher 🎮
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 **CS2 Inventory Fetcher** — это Python-скрипт для сбора данных о скинах из инвентаря CS2 через Steam Web API. Проект предназначен для изучения работы с API и обработки данных.
 
 ## ✨ Возможности
